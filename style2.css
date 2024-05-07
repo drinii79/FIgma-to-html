@@ -1,0 +1,20 @@
+.kejta2{
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    border-radius: 30px;
+}
+.rightside{
+background-color: AB6B0A;
+width: 17em;
+padding: 25px;
+height: 19em;
+border-radius: 20px ;
+margin-top: 50px;
+}
+#login{
+    width: 15em;
+    height: 40px;
+    
+}
